@@ -51,9 +51,9 @@ afterEvaluate {
                 from components.release
 
                 // You can then customize attributes of the publication as shown below.
-                groupId = 'nathan.vo'
+                groupId = 'com.example.student'
                 artifactId = 'lib02'
-                version = '1.0.0'
+                version = '1.0.1'
             }
         }
     }
